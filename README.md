@@ -1,10 +1,14 @@
 # ethereum-auth-demo
 Demo of signing into a backend website from Web3 using JSON Web Tokens.
 
+## Project
+Cloned from https://github.com/vanbexlabs/ethereum-auth-demo
+Small tweak to script made
+
 ## Installation
     npm install
     browserify frontend.js > public/bundle.js
-    nodejs backend.js
+    npm start
 
 ## How to use
 1. Install MetaMask in Chrome / Chromium and create an Ethereum account.
