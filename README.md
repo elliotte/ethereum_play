@@ -1,9 +1,9 @@
-# ethereum-auth-demo
+# Ethereum-auth-demo
 Demo of signing into a backend website from Web3 using JSON Web Tokens.
 
 ## Project
-Cloned from https://github.com/vanbexlabs/ethereum-auth-demo
-Small tweak to script made
+* Cloned originally from https://github.com/vanbexlabs/ethereum-auth-demo
+* Small tweak to script made
 
 ## Installation
     npm install
